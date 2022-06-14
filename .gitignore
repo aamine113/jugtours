@@ -1,0 +1,19 @@
+HELP.md
+target/
+.mvn/
+mvnw
+mvnw.cmd
+target/
+src/main/frontend/node_modules/
+
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### dependencies ###
+app/node_modules
+app/.pnp
+app/.pnp.js
